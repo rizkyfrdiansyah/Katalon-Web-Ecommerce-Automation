@@ -15,28 +15,28 @@
       <guid>879d59f7-5b7f-4f0e-80da-1c5412c7221b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/LG_001</testCaseId>
+      <testCaseId>Test Cases/Login/LG_001 - Login Valid</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>8d515c8a-b878-46a0-bb7f-0462e9109b87</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/LG_002</testCaseId>
+      <testCaseId>Test Cases/Login/LG_002 - Invalid Password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>4f7514cc-c98f-45e7-9fef-699a48629eae</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/LG_003</testCaseId>
+      <testCaseId>Test Cases/Login/LG_003 - Without Password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>36eec75e-b0eb-4065-892f-a088ab2ed2ef</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/LG_004</testCaseId>
+      <testCaseId>Test Cases/Login/LG_004 - Without Credential</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
