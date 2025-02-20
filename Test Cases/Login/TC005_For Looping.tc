@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>LG_001</name>
+   <name>TC005_For Looping</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>dfb4f5aa-479e-4e17-be0c-ca11a30efcfa</testCaseGuid>
+   <testCaseGuid>297b9b88-2971-4ef5-8a49-09c0c4dcb752</testCaseGuid>
 </TestCaseEntity>
