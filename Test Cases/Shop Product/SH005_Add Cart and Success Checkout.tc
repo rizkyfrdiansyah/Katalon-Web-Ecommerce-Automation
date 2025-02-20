@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SH005_Add Cart and Success Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf3adbfb-8cfe-440a-9cf4-9132feca0083</testCaseGuid>
+</TestCaseEntity>

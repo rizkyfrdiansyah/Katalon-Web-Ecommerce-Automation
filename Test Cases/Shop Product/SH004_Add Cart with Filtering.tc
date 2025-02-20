@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SH004_Add Cart with Filtering</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7891648-80e4-45b6-a660-8104ff0e0b9a</testCaseGuid>
+</TestCaseEntity>

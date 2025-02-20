@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SH002_Add Cart Double</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c65cc70-98af-4dba-98ff-11ae624282d2</testCaseGuid>
+</TestCaseEntity>

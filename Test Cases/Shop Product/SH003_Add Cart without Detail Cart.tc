@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SH003_Add Cart without Detail Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>14554eb2-d084-41cc-a359-78630e440cd1</testCaseGuid>
+</TestCaseEntity>
